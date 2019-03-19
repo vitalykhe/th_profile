@@ -1,4 +1,4 @@
-cont gulp = require('gulp');
+const gulp = require('gulp');
 
 //gulp top level functions
 
@@ -7,6 +7,6 @@ cont gulp = require('gulp');
 //gulp.dest = destination to output
 //gulp.watch = watch files and folders for changes
 
-gulp.task('message', () => {
+gulp.task('message', function() {
   return console.log('gulp is running..');
 });

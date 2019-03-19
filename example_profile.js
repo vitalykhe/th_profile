@@ -1,4 +1,4 @@
-const Profile = require("./profile.js");
+onst Profile = require("./profile.js");
 const studentProfile = new Profile("chalkers");
 
 /**
