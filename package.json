@@ -1,11 +1,26 @@
 {
   "name": "th_profile",
   "version": "1.0.0",
-  "description": "",
+  "description": "gulp test",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "vk",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitalykhe/th_profile.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "bugs": {
+    "url": "https://github.com/vitalykhe/th_profile/issues"
+  },
+  "homepage": "https://github.com/vitalykhe/th_profile#readme"
 }
